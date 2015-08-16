@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fuel Check</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="lblGas">Gas</string>
+    <string name="lblEthanol">Ethanol</string>
+    <string name="btn_compare">Compare</string>
+    <string name="lbl_result_Gas">Gas is the best option!</string>
+    <string name="lbl_result_eth">Ethanol is the best option!</string>
+    <string name="toast_error">Please fill both fields!</string>
+</resources>
